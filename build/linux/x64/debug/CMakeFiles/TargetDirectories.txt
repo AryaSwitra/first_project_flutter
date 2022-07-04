@@ -1,0 +1,14 @@
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/CMakeFiles/fisrt_project.dir
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/CMakeFiles/install.dir
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/flutter/CMakeFiles/install.dir

@@ -1,0 +1,11 @@
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/bundle/fisrt_project
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/arya/project_flutter/fisrt_project/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
